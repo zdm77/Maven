@@ -13,7 +13,7 @@ import java.util.List;
 public class ListServlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-
+        System.out.println("тест");
 
         Model model = Model.getInstance();
         //Model model = new Model(true);

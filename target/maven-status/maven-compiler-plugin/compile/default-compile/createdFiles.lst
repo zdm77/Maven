@@ -1,8 +1,0 @@
-app\entities\DBConnect.class
-app\entities\Users.class
-app\servlets\ListProducts.class
-app\servlets\ListServlet.class
-app\entities\AirLines.class
-app\model\Model.class
-app\servlets\AddServlet.class
-app\entities\SqlBase.class
